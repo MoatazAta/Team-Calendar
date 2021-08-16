@@ -1,0 +1,16 @@
+.meetingsList > select {
+	font-size: x-large;
+    margin-bottom: 20px;
+}
+
+.meetingsList table {
+    margin: auto;
+    width: 90%;
+}
+
+.meetingsList table, .MovieList th, .MovieList td {
+    border: 3px solid black;
+    padding: 10px;
+}
+
+tr:hover {background-color: blue;}

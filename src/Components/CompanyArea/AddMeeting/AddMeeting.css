@@ -1,0 +1,22 @@
+.AddMeeting>form {
+    width: 300px;
+    margin: auto;
+    text-align: left;
+}
+
+.AddMeeting>form>* {
+    width: 100%;
+    font-size: x-large;
+    box-sizing: border-box;
+}
+
+.AddMeeting input,
+.AddMeeting select {
+    margin-bottom: 10px;
+}
+
+.AddMeeting span {
+    position: absolute;
+    color: darkred;
+    margin-left: 10px;
+}
